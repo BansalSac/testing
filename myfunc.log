@@ -1,0 +1,9 @@
+INFO:root:myfunc with args: (), kwargs: {}
+INFO:root:myfunc with args: ('hi', 'bye'), kwargs: {'bye': 'ok'}
+INFO:root:myfunc with args: ('hi', 'bye'), kwargs: {'bye': 'ok'}
+INFO:root:myfunc with args: ('hi', 'bye'), kwargs: {'bye': 'ok'}
+INFO:root:myfunc with args: ('hi', 'bye'), kwargs: {}
+INFO:root:myfunc with args: ('hii', 'byye'), kwargs: {}
+INFO:root:myfunc with args: ('hii', 'byye'), kwargs: {}
+INFO:root:myfunc with args: ('hii', 'byye'), kwargs: {}
+INFO:root:myfunc with args: ('hii', 'byye'), kwargs: {}
